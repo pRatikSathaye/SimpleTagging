@@ -1,3 +1,4 @@
 Its new file and I am commitng this now
-adding anotheer change here
+adding (delete text) here
 Hey I only added this line then why its showing added above two lines too
+added this line now
